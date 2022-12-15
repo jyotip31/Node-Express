@@ -1,2 +1,2 @@
 # Node-Express
-this is for educational purpose
+this is just a practice session for node.js with express
