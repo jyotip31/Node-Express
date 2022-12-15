@@ -1,0 +1,20 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "this is for educational purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyotip31/Node-Express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyotip31/Node-Express/issues"
+  },
+  "homepage": "https://github.com/jyotip31/Node-Express#readme"
+}
